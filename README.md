@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **low level programming C**
 
-- 👯 I’m looking to collaborate on **C and python**
-
 - 📫 How to reach me **samuelwngundi02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
