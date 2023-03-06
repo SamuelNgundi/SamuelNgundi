@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelngundi" alt="samuelngundi" /></a> </p>
 
-- 🔭 I’m currently working on **C**
+- 🔭 I’m currently working on **Virtual Assistant AI Web-App, like Siri or Alexa**
 
-- 🌱 I’m currently learning **low level programming C**
+- 🌱 I’m currently learning **Back-end Specialisation.. and stuff**
 
 - 📫 How to reach me **samuelwngundi02@gmail.com**
 
