@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Ngundi W</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelngundi&label=Profile%20views&color=0e75b6&style=flat" alt="samuelngundi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelngundi" alt="samuelngundi" /></a> </p>
 
 - 🔭 I’m currently working on **Virtual Assistant AI Web-App, like Siri or Alexa**
