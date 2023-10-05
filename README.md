@@ -1,11 +1,31 @@
-<h1 align="center">Hi 👋, I'm Samuel Ngundi W</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Samuel Ngundi</h1>
+<h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelngundi" alt="samuelngundi" /></a> </p>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `Junior Developer` at [Develop Tech](https://jennie-anime-player.vercel.app) 
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Object Oriented Programming` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/).
+- :boom: You can visit [MY WEBSITE](https://www.samuelngundi.live).
+<br>
 
 - 🔭 I’m currently working on **Virtual Assistant AI Web-App, like Siri or Alexa**
 
-- 🌱 I’m currently learning **Back-end Specialisation.. and stuff**
 
 - 📫 How to reach me **samuelwngundi02@gmail.com**
 
@@ -30,3 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelngundi&" alt="samuelngundi" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelngundi" alt="samuelngundi" /></a> </p>
